@@ -1,6 +1,6 @@
 # city_carousel
 
-A new Flutter project.
+An interactive Carousel developed using Flutter for mobile platform.
 
 ## Getting Started
 
