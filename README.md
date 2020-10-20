@@ -1,6 +1,5 @@
 # city_carousel
-
-A new Flutter project.
+A beautiful and elegent carousel developed using flutter
 
 ## Getting Started
 
